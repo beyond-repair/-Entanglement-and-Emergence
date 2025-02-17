@@ -38,7 +38,7 @@ $$H = -\sum_{\langle i,j \rangle} J_{ij} \left( \sigma_i^x \sigma_j^x + \sigma_i
     $$\Gamma[g] = \int d^4x \, \sqrt{-g} \left( \frac{R}{16\pi G} + \lambda \cdot (\nabla_\mu \nabla_\nu S)^2 \right)$$  
 
 #### **3.3 Numerical Toy Model (1D Spin Chain)**  
-- **High Entanglement**: Smooth $$ g_{\mu\nu} \approx \eta_{\mu\nu} $$.  
+- **High Entanglement**: Smooth $$g_{\mu\nu} \approx \eta_{\mu\nu}$$.  
 - **Low Entanglement**: Disordered metric $$\delta g_{\mu\nu} \sim \mathcal{O}(10^{-3}) \ell_p^2$$.  
 ![Metric vs. Entanglement](figures/metric_entanglement.png)  
 
