@@ -17,7 +17,7 @@ The reconciliation of general relativity (GR) with quantum mechanics remains one
 
 ### **2. Framework and Definitions**  
 #### **2.1 Quantum Substrate**  
-- **Fundamental Degrees of Freedom**: Qubits in a Hilbert space $$ \mathcal{H} $$, arranged in a dynamical network with nearest-neighbor couplings $$ J_{ij} \propto S(\rho_{ij}) $$, where $$ S(\rho_{ij}) = -\text{Tr}(\rho \ln \rho) $$ is the von Neumann entropy.  
+- **Fundamental Degrees of Freedom**: Qubits in a Hilbert space $$\mathcal{H}$$, arranged in a dynamical network with nearest-neighbor couplings $$ J_{ij} \propto S(\rho_{ij}) $$, where $$ S(\rho_{ij}) = -\text{Tr}(\rho \ln \rho) $$ is the von Neumann entropy.  
 - **Pre-Geometric Phase**: At energy densities $$ \rho > \rho_c = \frac{\Lambda_{\text{QG}}^4}{\hbar^3 c^5} $$, spacetime dissolves into a quantum-informational phase.  
 
 #### **2.2 Emergent Metric**  
