@@ -35,7 +35,7 @@ $$H = -\sum_{\langle i,j \rangle} J_{ij} \left( \sigma_i^x \sigma_j^x + \sigma_i
 1. **Block-Spin Renormalization**: Group qubits into blocks of size $$\Lambda$$.  
 2. **Entropy Gradient**: Compute $$S_\Lambda$$ for each block.  
 3. **Einstein-Hilbert Action**:  
-    \Gamma[g] = \int d^4x \, \sqrt{-g} \left( \frac{R}{16\pi G} + \lambda \cdot (\nabla_\mu \nabla_\nu S)^2 \right)$$  
+    $$\Gamma[g] = \int d^4x \, \sqrt{-g} \left( \frac{R}{16\pi G} + \lambda \cdot (\nabla_\mu \nabla_\nu S)^2 \right)$$  
 
 #### **3.3 Numerical Toy Model (1D Spin Chain)**  
 - **High Entanglement**: Smooth $$ g_{\mu\nu} \approx \eta_{\mu\nu} $$.  
