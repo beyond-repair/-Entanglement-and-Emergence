@@ -32,16 +32,14 @@ The substrate is modeled as a spin chain:
 $$H = -\sum_{\langle i,j \rangle} J_{ij} \left( \sigma_i^x \sigma_j^x + \sigma_i^z \sigma_j^z \right), \quad J_{ij} = \alpha \cdot S(\rho_{ij}).$$  
 
 #### **3.2 Coarse-Graining and Effective Action**  
-1. **Block-Spin Renormalization**: Group qubits into blocks of size $$ \Lambda $$.  
-2. **Entropy Gradient**: Compute $$ S_\Lambda $$ for each block.  
+1. **Block-Spin Renormalization**: Group qubits into blocks of size $$\Lambda$$.  
+2. **Entropy Gradient**: Compute $$S_\Lambda$$ for each block.  
 3. **Einstein-Hilbert Action**:  
-$$  
-\Gamma[g] = \int d^4x \, \sqrt{-g} \left( \frac{R}{16\pi G} + \lambda \cdot (\nabla_\mu \nabla_\nu S)^2 \right).  
-$$  
+    \Gamma[g] = \int d^4x \, \sqrt{-g} \left( \frac{R}{16\pi G} + \lambda \cdot (\nabla_\mu \nabla_\nu S)^2 \right)$$  
 
 #### **3.3 Numerical Toy Model (1D Spin Chain)**  
 - **High Entanglement**: Smooth $$ g_{\mu\nu} \approx \eta_{\mu\nu} $$.  
-- **Low Entanglement**: Disordered metric $$ \delta g_{\mu\nu} \sim \mathcal{O}(10^{-3}) \ell_p^2 $$.  
+- **Low Entanglement**: Disordered metric $$\delta g_{\mu\nu} \sim \mathcal{O}(10^{-3}) \ell_p^2$$.  
 ![Metric vs. Entanglement](figures/metric_entanglement.png)  
 
 ---
@@ -49,28 +47,24 @@ $$
 ### **4. Predictions and Experimental Tests**  
 #### **4.1 Modified Gravitational Signatures**  
 - **Black Hole Entropy Correction**:  
-$$  
-S_{\text{BH}} = \frac{A}{4\ell_p^2} + \alpha \ln\left(\frac{A}{\ell_p^2}\right), \quad \alpha = \frac{1}{2\pi} \ln d \approx 0.11 \, (d=2).  
-$$  
+$$S_{\text{BH}} = \frac{A}{4\ell_p^2} + \alpha \ln\left(\frac{A}{\ell_p^2}\right), \quad \alpha = \frac{1}{2\pi} \ln d \approx 0.11 \, (d=2)$$  
 - **Entanglement-Dependent Lensing**:  
-$$  
-\Delta \theta \approx \frac{\lambda}{\ell_p} \cdot \frac{\delta S}{S_0} \sim 10^{-10} \, \text{arcseconds}.  
-$$  
+$$\Delta \theta \approx \frac{\lambda}{\ell_p} \cdot \frac{\delta S}{S_0} \sim 10^{-10} \, \text{arcseconds}$$  
 
 #### **4.2 Tabletop Quantum Simulator**  
-- **Setup**: Superconducting qubit array with tunable $$ J_{ij} $$.  
-- **Predicted Signal**: Photon delay $$ \Delta t \sim 10^{-18}\, \text{s} $$.  
+- **Setup**: Superconducting qubit array with tunable $$J_{ij}$$.  
+- **Predicted Signal**: Photon delay $$\Delta t \sim 10^{-18}\, \text{s}$$.  
 
 #### **4.3 Astrophysical Probes**  
-- **Primordial Black Holes**: Lensing anomalies at $$ \Delta \theta \sim 10^{-10} $$ arcseconds.  
-- **CMB Anomalies**: Power-law tails $$ C(\theta) \propto \theta^{-3/2} $$ at $$ \theta < 0.1^\circ $$.  
+- **Primordial Black Holes**: Lensing anomalies at $$\Delta \theta \sim 10^{-10}$$ arcseconds.  
+- **CMB Anomalies**: Power-law tails $$C(\theta) \propto \theta^{-3/2}$$ at $$\theta < 0.1^\circ$$.  
 
 ---
 
 ### **5. Limitations and Future Work**  
 1. **Dimensionality**: Extending the 1D model to 3+1D requires solving the holographic bootstrap.  
 2. **Non-AdS Spacetime**: Adapting to flat spacetime via Carrollian symmetry.  
-3. **Experimental Sensitivity**: Current instruments (e.g., LISA, JWST) may require upgrades to detect $$ \Delta \theta $$.  
+3. **Experimental Sensitivity**: Current instruments (e.g., LISA, JWST) may require upgrades to detect $$\Delta \theta$$.  
 
 ---
 
@@ -96,7 +90,7 @@ This work formalizes spacetime and gravity as emergent phenomena from quantum en
 
 ### **Supplementary Materials**  
 - **Code**: Python scripts for 1D spin chain simulations.  
-- **Data**: Numerical results for $$ \delta g_{\mu\nu} $$ vs. $$ S $$.  
+- **Data**: Numerical results for $$\delta g_{\mu\nu}$$ vs. $$S$$.  
 - **Figures**: High-resolution plots of metric fluctuations.  
 
 ---
