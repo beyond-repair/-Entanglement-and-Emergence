@@ -22,16 +22,14 @@ The reconciliation of general relativity (GR) with quantum mechanics remains one
 
 #### **2.2 Emergent Metric**  
 The spacetime metric $$g_{\mu\nu}$$ is derived from entanglement entropy gradients:  
-$$  g_{\mu\nu}(x) = \eta_{\mu\nu} + \epsilon \cdot \nabla_\mu \nabla_\nu S(x), \quad \epsilon \sim \ell_p^2.  $$  
+$$g_{\mu\nu}(x) = \eta_{\mu\nu} + \epsilon \cdot \nabla_\mu \nabla_\nu S(x), \quad \epsilon \sim \ell_p^2.$$  
 
 ---
 
 ### **3. Formal Derivation**  
 #### **3.1 Microscopic Hamiltonian**  
 The substrate is modeled as a spin chain:  
-$$  
-H = -\sum_{\langle i,j \rangle} J_{ij} \left( \sigma_i^x \sigma_j^x + \sigma_i^z \sigma_j^z \right), \quad J_{ij} = \alpha \cdot S(\rho_{ij}).  
-$$  
+$$H = -\sum_{\langle i,j \rangle} J_{ij} \left( \sigma_i^x \sigma_j^x + \sigma_i^z \sigma_j^z \right), \quad J_{ij} = \alpha \cdot S(\rho_{ij}).$$  
 
 #### **3.2 Coarse-Graining and Effective Action**  
 1. **Block-Spin Renormalization**: Group qubits into blocks of size $$ \Lambda $$.  
