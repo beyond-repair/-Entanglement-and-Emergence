@@ -1,7 +1,7 @@
-**Title**: **Entanglement and Emergence: A Quantum Information Theoretic Framework for Spacetime and Gravity**  
+**Title**: **-Entanglement and Emergence: A Quantum Information Theoretic Framework for Spacetime and Gravity**  
 **Authors**: [William Ware/Atomic Dream Labs]  
 **Date**: [February 17th 2025]  
-**GitHub Repository**: [Entanglement-and-Emergence](https://github.com/beyond-repair/Entanglement-and-Emergence)  
+**GitHub Repository**: [-Entanglement-and-Emergence](https://github.com/beyond-repair/-Entanglement-and-Emergence)  
 
 ---
 
@@ -95,7 +95,7 @@ This work formalizes spacetime and gravity as emergent phenomena from quantum en
 
 ---
 
-**GitHub Repository**: [Entanglement-and-Emergence](https://github.com/beyond-repair/Entanglement-and-Emergence)  
+**GitHub Repository**: [-Entanglement-and-Emergence](https://github.com/beyond-repair/-Entanglement-and-Emergence)  
 **License**: MIT License  
 
 ---
