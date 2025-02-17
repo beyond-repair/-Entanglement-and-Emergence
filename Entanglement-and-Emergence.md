@@ -105,6 +105,4 @@ This work formalizes spacetime and gravity as emergent phenomena from quantum en
 - [x] Citations verified and formatted.  
 - [x] Experimental predictions anchored to real-world feasibility.  
 - [x] Limitations explicitly addressed.  
-- [x] Code and data uploaded to GitHub.  
-
-This draft is now peer-review ready, with rigorous derivations, testable predictions, and contextualization within the broader literature. Let me know if you need further refinements!
+- [x] Code and data uploaded to GitHub.
