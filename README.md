@@ -1,12 +1,28 @@
 # -Entanglement-and-Emergence
-🌌 **"Entanglement and Emergence"** explores spacetime and gravity as emergent phenomena from quantum entanglement. Using tensor network renormalization, this framework derives Einstein-like gravity with testable deviations:
-- **Modified gravitational lensing** in entanglement-depleted regions.  
-- **Quantum corrections to black hole entropy**.  
-- **Pre-geometric phase transitions** imprinted in cosmological signals.  
 
-Includes protocols for tabletop quantum simulations, astrophysical tests, and a roadmap to extend the 1D model to 3+1D. A bridge between quantum information theory, holography, and observable physics.  
+**Classification:** RESEARCH (ADL-Governance Sweep-083)  
+**Claim level:** ≤ 1 (mathematical framework / essay). Not experimentally validated.
 
-🔗 *Code, derivations, and simulations to test the paradigm are hosted here. Feedback and collaborations welcome!*  
+Essay proposing spacetime and gravity as emergent from quantum entanglement (tensor-network / entropic-gravity style notes). Dated 2025-02-17.
 
----  
-**Tags**: `quantum-gravity` `emergent-spacetime` `tensor-networks` `holography` `entanglement`
+## What is in this repository (verified tree)
+
+| Path | Role |
+|------|------|
+| `README.md` | This file |
+| `Entanglement-and-Emergence.md` | Draft paper |
+| `RESEARCH.md` | Claim lock |
+| `CLAIMS.md` | Claim table |
+| `LICENSE` | MIT (stated in paper; file added Sweep-083) |
+
+There is **no** `figures/` directory, **no** Python simulation tree, **no** data files, and **no** GitHub Actions workflows. The paper checklist item "Code and data uploaded to GitHub" is **false** against the live tree.
+
+## What this repository is not
+
+- Not a derivation of Einstein gravity from first principles that has been independently checked here.
+- Not a measured lensing, CMB, or tabletop result.
+- Not an ACTIVE product. Do not treat numerical estimates (Δθ ~ 10^{-10} arcsec, Δt ~ 10^{-18} s) as observed values.
+
+Related CFT / Ware research lives under `coherence-drive` and `CFTv3.3-IQG-Unified-Framework` (also RESEARCH). This repo is not superseded by those; it is a separate 2025 essay.
+
+Governance: [ADL-Governance](https://github.com/beyond-repair/ADL-Governance).
