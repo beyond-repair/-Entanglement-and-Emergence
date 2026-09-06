@@ -1,6 +1,6 @@
 # -Entanglement-and-Emergence
 
-**Classification:** RESEARCH (ADL-Governance Sweep-083)  
+**Classification:** RESEARCH (ADL-Governance Sweep-084)  
 **Claim level:** ≤ 1 (mathematical framework / essay). Not experimentally validated.
 
 Essay proposing spacetime and gravity as emergent from quantum entanglement (tensor-network / entropic-gravity style notes). Dated 2025-02-17.
@@ -13,7 +13,7 @@ Essay proposing spacetime and gravity as emergent from quantum entanglement (ten
 | `Entanglement-and-Emergence.md` | Draft paper |
 | `RESEARCH.md` | Claim lock |
 | `CLAIMS.md` | Claim table |
-| `LICENSE` | MIT (stated in paper; file added Sweep-083) |
+| `LICENSE` | MIT |
 
 There is **no** `figures/` directory, **no** Python simulation tree, **no** data files, and **no** GitHub Actions workflows. The paper checklist item "Code and data uploaded to GitHub" is **false** against the live tree.
 
