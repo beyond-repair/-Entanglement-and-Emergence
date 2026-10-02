@@ -105,4 +105,4 @@ This work formalizes spacetime and gravity as emergent phenomena from quantum en
 - [x] Citations verified and formatted.  
 - [x] Experimental predictions anchored to real-world feasibility.  
 - [x] Limitations explicitly addressed.  
-- [x] Code and data uploaded to GitHub.
+- [x] Code and data uploaded to GitHub (Claim-0 1D spin-chain toy in `entanglement_emergence/`; not a 3+1D holographic bootstrap).
